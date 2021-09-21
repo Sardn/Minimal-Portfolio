@@ -1,0 +1,39 @@
+/*
+    Styles
+*/
+
+/***LANDSCAPE-MOBILE***/
+@media screen and (min-height : 120px) and (max-height : 320px){
+
+}
+/***END--LANDSCAPE-MOBILE***/
+
+/***PORTRAIT-MOBILE***/
+@media screen and (min-width : 120px){
+
+}
+/***END--PORTRAIT-MOBILE***/
+
+/***PORTRAIT-TABLET-MINI***/
+@media screen and (min-width : 768px){
+
+}
+/***END--PORTRAIT-TABLET-MINI***/
+
+/***PORTRAIT-TABLET***/
+@media screen and (min-width : 1024px){
+
+}
+/***END--PORTRAIT-TABLET***/
+
+/***LAPTOP-MDPIScreen***/
+@media screen and (min-width : 1280px){
+
+}
+/***END--LAPTOP-MDPIScreen***/
+
+/***LAPTOP-HiDPIScreen***/
+@media screen and (min-width : 1440px){
+
+}
+/***END--LAPTOP-HiDPIScreen***/
