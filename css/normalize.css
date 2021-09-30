@@ -353,15 +353,7 @@ template {
 /*
  * Box sizing and 
  */
-body
-header,
-table,
-ul,
-li,
-div,
-section,
-input,
-textarea {
+* {
     -webkit-appearance: none;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
